@@ -1,0 +1,13 @@
+Summary
+
+Project Title: Gen AI Chatbot using Hugging Face & OpenAI  
+Description:  
+This project is a web-based AI chatbot built using OpenAI's GPT model and deployed via Hugging Face APIs. It allows users to chat with an intelligent bot that can understand and respond to queries in real-time. The chatbot interface is simple, interactive, and deployed using Netlify.
+
+Tech Stack:  
+- HTML, CSS   
+- OpenAI GPT Model  
+- Hugging Face API  
+- Netlify (Deployment)
+
+Live Link: [udaykirangpt.netlify.app](https://udaykirangpt.netlify.app)
